@@ -1,3 +1,3 @@
 Introduccion
 Esta es la introduccion
-[foto1](
+[foto1](img/Leao2.jpg)
